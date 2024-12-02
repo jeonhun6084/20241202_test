@@ -30,4 +30,4 @@ jobs:
     #     python manage.py test
     - name: Tests by unittest
       run: |
-        python -m unittest discover -s tests
+        python -m unittest discover -s test
